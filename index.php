@@ -1,0 +1,600 @@
+
+<!DOCTYPE html>
+	<html lang="UTF-8" class="no-js">
+	<head>
+		<!-- Mobile Specific Meta -->
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<!-- Favicon-->
+		<link rel="shortcut icon" href="img/fav.png">
+		<!-- Author Meta -->
+		<meta name="author" content="codepixer">
+		<!-- Meta Description -->
+		<meta name="description" content="">
+		<!-- Meta Keyword -->
+		<meta name="keywords" content="">
+		<!-- meta character set -->
+		<meta charset="UTF-8">
+		<!-- Site Title -->
+		<title>Security Home</title>
+		<link rel="shortcut icon" href="Icon.ico" type="image/x-icon" />
+		 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+
+		 <link rel="stylesheet" type="text/html" href="modal.html">
+
+		<link href="https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700" rel="stylesheet"> 
+			<!--
+			CSS
+			============================================= -->
+			<link rel="stylesheet" href="css/linearicons.css">
+			<link rel="stylesheet" href="css/font-awesome.min.css">
+			<link rel="stylesheet" href="css/bootstrap.css">
+			<link rel="stylesheet" href="css/magnific-popup.css">
+			<link rel="stylesheet" href="css/nice-select.css">					
+			<link rel="stylesheet" href="css/animate.min.css">
+			<link rel="stylesheet" href="css/owl.carousel.css">
+			<link rel="stylesheet" href="css/main.css">
+
+			
+
+		</head>
+		<body>
+
+			  <header id="header" id="home">
+			    <div class="container">
+			    	<div class="row align-items-center justify-content-between d-flex">
+				      <div id="logo">
+				        <a href="index.php"><img src="img/logoV200.png" alt="" title="" /></a>
+				      </div>
+				      <nav id="nav-menu-container">
+				        <ul class="nav-menu">
+				          <li class="menu-active"><a href="#home">Home</a></li>
+				          <li><a href="#funcionalidades">Funcionalidades</a></li>
+				          <li><a href="#desenvolvimento">Desenvolvimento</a></li>
+				          <li><a href="#imagens">Imagens</a></li>
+				          <li><a href="#preco">Preço</a></li>
+				          <li><a href="#feedback"> Feedback</a></li>
+
+				      </nav><!-- #nav-menu-container -->		    		
+			    	</div>
+			    </div>
+			  </header><!-- #header -->
+
+
+			<!-- start banner Area -->
+			<section class="banner-area" id="home">	
+				<div class="container">
+				 	<div class="row fullscreen d-flex align-items-center justify-content-center"> 
+						<div class="banner-content col-lg-7">
+						<!--	<h1>
+								Security Home				
+							</h1> --> 
+							
+						</div>											
+					</div>
+				</div>
+			</section>
+			<!-- End banner Area -->	
+
+			<!-- Start we-offer Area -->
+			<section class="we-offer-area section-gap" id="funcionalidades">
+				<div class="container">
+					<div class="row d-flex justify-content-center">
+						<div class="menu-content pb-60 col-lg-10">
+							<div class="title text-center">
+								<h1 class="mb-10">Principais Funcionalidades </h1>
+								<p>Sistema de segurança inovador, tecnologico e de fácil acesso.</p>
+							</div>
+						</div>
+					</div>						
+					<div class="row">
+						<div class="col-lg-6">
+							<div class="single-offer d-flex flex-row pb-30">
+								<div class="icon">
+									<img height="100" width="100" src="img/Dóll.png" alt="">
+								</div>
+								<div class="desc">
+									<a href="#"><h4>Baixo Custo </h4></a>
+									<p>
+										Nosso sistema de segurança foi desenvolvido pensando nas pessoas que 
+										gostaria de ter mais segurança no seu dia a dia, pagando em média 70% mais 
+										barato que o sistemas disponiveis no mercado. 
+									</p>
+								</div>
+							</div>
+							<div class="single-offer d-flex flex-row pb-30">
+								<div class="icon">
+									<img height="100" width="100" src="img/imeio.png" alt="">
+								</div>
+								<div class="desc">
+									<a href="#"><h4> Alerta de Segurança </h4></a>
+									<p>
+										Seu sistema de segurança sendo ativado, você recebe altomaticamente um e-mail de alerta.
+										Podendo também adicionar contatos de pessoas proximas, que "dar uma olhadinha" na sua 
+										residência por você. 
+
+									</p>
+								</div>
+							</div>
+						</div>
+						<div class="col-lg-6">
+							<div class="single-offer d-flex flex-row pb-30">
+								<div class="icon">
+									<img src="img/f3.sensor.jpg" alt="">
+								</div>
+								<div class="desc">
+									<a href="#"><h4>Sensores Inteligêntes </h4></a>
+									<p>
+										Sistema de segurança é acionado por detecção de movimento, através de 
+										sensores ultrassónicos.<br>	<br> <br>
+
+									</p>
+								</div>
+							</div>
+							<div class="single-offer d-flex flex-row pb-30">
+								<div class="icon">
+									<img src="img/f4.online.jpg" alt="">
+								</div>
+								<div class="desc">
+									<a href="#"><h4>Configurações Online</h4></a>
+									<p>
+										Configurações básicas do sistema pode ser alterada pelo úsuario a qualquer momento,
+										informações como, ligado/desligado, senha do WIFI, e e-mails de segurança.
+									</p>
+								</div>
+							</div>
+						</div>												
+					</div>
+				</div>	
+			</section>
+			<!-- End we-offer Area -->
+			
+	
+			<!-- Start home-video Area -->
+			<section class="home-video-area" id="desenvolvimento">
+				<div class="container-fluid">
+					<div class="row justify-content-end align-items-center">
+						<div class="col-lg-4 no-padding video-right">
+							<p class="top-title">Um pouco de como foi </p>
+							<h1>Veja como foi o Desenvolvimento <br></h1>
+							<p><span>Sistema Desenvolvido na Etec Irmâ Agostina - 3°h </span></p>
+							<p>
+								Projeto de Conclusão de Curso (TCC), apresentado ao Curso Técnico em Informática da Etec Irmã Agostina, orientado pelo Prof. Josias, como parte requisito parcial para obtenção do título de técnico em Informática. 
+							</p>
+						</div>
+						<section class="video-area col-lg-6">
+							<div class="overlay overlay-bg"></div>
+							<div class="container">
+								<div class="video-content">
+									<a href="http://www.youtube.com/watch?v=0O2aH4XLbto" class="play-btn"><img src="img/play-btn.png" alt=""></a>
+								</div>
+							</div>
+						</section>											
+					</div>
+				</div>	
+			</section>
+
+		<!-- Area de Imagem --> 	
+
+			
+			<section class="protfolio-area section-gap" id="imagens">
+				<div class="container">
+					<div class="row d-flex justify-content-center">
+						<div class="menu-content pb-60 col-lg-10">
+							<div class="title text-center">
+								<h1 class="mb-10"> IMAGENS </h1>
+								<p>Algumas imagens do nosso projeto... </p>
+							</div>
+						</div>
+					</div>						
+					<div class="row">
+						<div class="col-lg-8 single-portfolio">
+						  <img class="image img-fluid" src="img/equipe.jpeg" alt="">
+						  <a href="img/equipe.jpeg" class="img-pop-up">	
+							  <div class="middle">
+							    <div class="text"><span class="lnr lnr-frame-expand"></span></div>
+							  </div>
+						  </a>
+						</div>
+						<div class="col-lg-4 single-portfolio">
+						  <img class="image img-fluid" src="img/kit_robocore.png" alt="">
+						  <a href="img/kit_robocore.png" class="img-pop-up">	
+							  <div class="middle">
+							    <div class="text"><span class="lnr lnr-frame-expand"></span></div>
+							  </div>
+						  </a>
+						</div>
+						<div class="col-lg-4 single-portfolio">
+						  <img class="image img-fluid" src="img/persona.jpg" alt="">
+						  <a href="img/persona.jpg" class="img-pop-up">	
+							  <div class="middle">
+							    <div class="text"><span class="lnr lnr-frame-expand"></span></div>
+							  </div>
+						  </a>
+						</div>
+						<div class="col-lg-8 single-portfolio">
+						  <img class="image img-fluid" src="img/thanos_01.jpg" alt="">
+						  <a href="img/thanos_01.jpg" class="img-pop-up">	
+							  <div class="middle">
+							    <div class="text"><span class="lnr lnr-frame-expand"></span></div>
+							  </div>
+						  </a>
+						</div>
+						<div class="col-lg-6 single-portfolio">
+						  <img class="image img-fluid" src="img/thanos_02.jpg" alt="">
+						  <a href="img/thanos_02.jpg" class="img-pop-up">	
+							  <div class="middle">
+							    <div class="text"><span class="lnr lnr-frame-expand"></span></div>
+							  </div>
+						  </a>
+						</div>
+						<div class="col-lg-6 single-portfolio">
+						  <img class="image img-fluid" src="img/thanos_03.jpg" alt="">
+						  <a href="img/thanos_03.jpg" class="img-pop-up">	
+							  <div class="middle">
+							    <div class="text"><span class="lnr lnr-frame-expand"></span></div>
+							  </div>
+						  </a>
+						</div>						
+					</div>
+				</div>	
+			</section>
+			<!-- End protfolio Area -->			
+
+			<!-- Start callto-action Area -->
+			<section class="callto-action-area relative section-gap">
+				<div class="overlay overlay-bg"></div>	
+				<div class="container">
+					<div class="row d-flex justify-content-center">
+						<div class="menu-content col-lg-9">
+							<div class="title text-center">
+								<h1 class="mb-10 text-white">Sistema de Segurança perfeito para você </h1>
+								<p class="text-white">Nos envie um e-mail, que entraremos em contato para entender suas necessidades 
+									relacionadas à segurança residencial, em no máximo 24 horas.</p>
+ </p>
+								<!-- <a class="primary-btn" href="#E-mail" id="email">Enviar E-mail</a> --> 
+							</div>
+						</div>
+					</div>	
+				</div>	
+			</section>
+			<!-- End calto-action Area -->
+			
+		
+			<!-- Start price Area -->
+			<section class="price-area section-gap" id="preco">
+				<div class="container">
+					<div class="row d-flex justify-content-center">
+						<div class="menu-content pb-60 col-lg-8">
+							<div class="title text-center">
+								<h1 class="mb-10">Contrate nosso sistema</h1>
+								<p>Baixo custo, 100% eficaz, e de fácil configuração.</p>
+							</div>
+						</div>
+					</div>					
+					<div class="row">
+						<div class="col-lg-4">
+							<div class="single-price">
+								<div class="top-sec d-flex justify-content-between">
+									<div class="top-left">
+										<h4>Basic</h4>
+										<p>Para sua  <br> residencia </p>
+									</div>
+									<div class="top-right">
+										<h3>R$ 49,90</h3>
+									</div>
+								</div>
+								<div class="bottom-sec">
+									<p>
+										“Você paga o equipamento sem custos adicionais (R$200,00), e 
+										o suporte fica apenas R$49,90 mensais"
+									</p>
+								</div>
+								<div class="end-sec">
+									<ul>
+										<li>Instalação Gratuita</li>
+										<li>O equipamento é seu </li>
+										<li>Suporte de seg a sexta (8:00 as 17:00)</li>
+										<li>Garantia de 6 Meses (para defeitos de fábrica)</li>
+										<li>Manual com passo a passo de utilização</li>
+									</ul>
+									<button tipy="button" class="primary-btn price-btn mt-20" data-toggle="modal" data-target="#myModalcad">Gostei do Plano </button>
+								</div>								
+							</div> 				
+
+						
+						</div>	  
+
+
+						<div class="col-lg-4">
+							<div class="single-price">
+								<div class="top-sec d-flex justify-content-between">
+									<div class="top-left">
+										<h4>Premium</h4>
+										<p>Para  <br> comercios</p>
+									</div>
+									<div class="top-right">
+										<h3>R$ 99,90</h3>
+									</div>
+								</div>
+								<div class="bottom-sec">
+									<p>
+										“Você paga o equipamento sem custos adicionais (R$200,00), e 
+										o suporte fica apenas R$99,90 mensais"
+									</p>
+								</div>
+								<div class="end-sec">
+									<ul>										
+										<li>Instalação Gratuita</li>
+										<li>O equipamento é seu </li>
+										<li>Suporte de seg a sexta (8:00 as 17:00)</li>
+										<li>Garantia de 1 ano (para defeitos de fábrica)</li>
+										<li>Manual e treinamento gratuito aos funcionarios</li>
+									</ul>
+									<button tipy="button" class="primary-btn price-btn mt-20" data-toggle="modal" data-target="#myModalcad">Gostei do Plano </button>
+								</div>								
+							</div> 
+						</div>	
+						<div class="col-lg-4">
+							<div class="single-price">
+								<div class="top-sec d-flex justify-content-between">
+									<div class="top-left">
+										<h4>Ultimate</h4>
+										<p>Lugares  <br> integrados </p>
+									</div>
+									<div class="top-right">
+										<h3>R$ 200,00</h3>
+									</div>
+								</div>
+								<div class="bottom-sec">
+									<p>
+										Casas ou empresas que precisam do equipamento instalados em mais de um local
+										fazemos a integração dos aparelhos, com o custo adicional de R$ 200,00 por equipamento,
+										porém a mensalidade mantém o valor.
+									</p>
+								</div>
+								<div class="end-sec">
+									<ul>
+										<li>Instalação e Integração Gratuita</li>
+										<li>O equipamento é seu </li>
+										<li>Suporte de seg a domingo (8:00 as 17:00)</li>
+										<li>Garantia de 1 ano (para defeitos de fábrica)</li>
+										<li>Manual e treinamento gratuito aos funcionarios</li>
+									</ul>
+									<button tipy="button" class="primary-btn price-btn mt-20" data-toggle="modal" data-target="#myModal">Gostei do Plano </button>
+								</div>								
+							</div> 
+						</div>							
+																						
+					</div>
+				</div>	
+			</section>
+			<!-- End price Area -->
+
+
+			<!-- Teste MODAL --> 	
+
+			<!-- Inicio Modal -->
+			<div class="modal fade" id="myModalcad" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+				<div class="modal-dialog" role="document">
+					<div class="modal-content">
+						<div class="modal-header">
+							<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+							<h4 class="modal-title text-center" id="myModalLabel">Contato Security Home </h4>
+						</div>
+						<div class="modal-body">
+							<form method="POST" action="http://localhost/securityhome/processa_cad.php" enctype="multipart/form-data">
+								<div class="form-group">
+									<label for="recipient-name" class="control-label">Nome:</label>
+									<input name="nome" type="text" class="form-control">
+								</div>
+								<div class="form-group">
+									<label for="recipient-name" class="control-label">E-mail:</label>
+									<input name="email" type="text" class="form-control">
+								</div>
+								<div class="form-group">
+									<label for="message-text" class="control-label">Detalhes:</label>
+									<textarea name="detalhes" class="form-control"></textarea>
+								</div>
+								<div class="modal-footer">
+									<button type="submit" class="btn btn-success">Enviar</button>
+									<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+								</div>
+								
+							</form>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- Fim Modal --> 
+
+			<!-- Start testomial Area -->
+			<section class="testomial-area section-gap" id="feedback">
+				<div class="container">
+					<div class="row d-flex justify-content-center">
+						<div class="menu-content pb-60 col-lg-8">
+							<div class="title text-center">
+								<h1 class="mb-10">O que as pessoas estão falando</h1>
+								<p>No desenvolvimento desse projeto, tivemos diversos feedbacks positivos</p>
+							</div>
+						</div>
+					</div>						
+					<div class="row">
+						<div class="active-tstimonial-carusel">
+							<div class="single-testimonial item">
+								<img class="mx-auto" src="img/t1.png" alt="">
+								<p class="desc">
+									Accessories Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker, projector, hardware and more. laptop accessory
+								</p>
+								<h4>Mark Alviro Wiens</h4>
+								<p>
+									CEO at Google
+								</p>
+							</div>
+							<div class="single-testimonial item">
+								<img class="mx-auto" src="img/t2.png" alt="">
+								<p class="desc">
+									Accessories Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker, projector, hardware and more. laptop accessory
+								</p>
+								<h4>Mark Alviro Wiens</h4>
+								<p>
+									CEO at Google
+								</p>
+							</div>
+							<div class="single-testimonial item">
+								<img class="mx-auto" src="img/t3.png" alt="">
+								<p class="desc">
+									Accessories Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker, projector, hardware and more. laptop accessory
+								</p>
+								<h4>Mark Alviro Wiens</h4>
+								<p>
+									CEO at Google
+								</p>
+							</div>	
+							<div class="single-testimonial item">
+								<img class="mx-auto" src="img/t1.png" alt="">
+								<p class="desc">
+									Accessories Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker, projector, hardware and more. laptop accessory
+								</p>
+								<h4>Mark Alviro Wiens</h4>
+								<p>
+									CEO at Google
+								</p>
+							</div>
+							<div class="single-testimonial item">
+								<img class="mx-auto" src="img/t2.png" alt="">
+								<p class="desc">
+									Accessories Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker, projector, hardware and more. laptop accessory
+								</p>
+								<h4>Mark Alviro Wiens</h4>
+								<p>
+									CEO at Google
+								</p>
+							</div>
+							<div class="single-testimonial item">
+								<img class="mx-auto" src="img/t3.png" alt="">
+								<p class="desc">
+									Accessories Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker, projector, hardware and more. laptop accessory
+								</p>
+								<h4>Mark Alviro Wiens</h4>
+								<p>
+									CEO at Google
+								</p>
+							</div>															
+							<div class="single-testimonial item">
+								<img class="mx-auto" src="img/t1.png" alt="">
+								<p class="desc">
+									Accessories Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker, projector, hardware and more. laptop accessory
+								</p>
+								<h4>Mark Alviro Wiens</h4>
+								<p>
+									CEO at Google
+								</p>
+							</div>
+							<div class="single-testimonial item">
+								<img class="mx-auto" src="img/t2.png" alt="">
+								<p class="desc">
+									Accessories Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker, projector, hardware and more. laptop accessory
+								</p>
+								<h4>Mark Alviro Wiens</h4>
+								<p>
+									CEO at Google
+								</p>
+							</div>
+							<div class="single-testimonial item">
+								<img class="mx-auto" src="img/t3.png" alt="">
+								<p class="desc">
+									Accessories Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker, projector, hardware and more. laptop accessory
+								</p>
+								<h4>Mark Alviro Wiens</h4>
+								<p>
+									CEO at Google
+								</p>
+							</div>														
+						</div>
+					</div>
+				</div>	
+			</section>
+				
+			<footer class="footer-area section-gap">
+				<div class="container">
+					<div class="row">
+						<div class="col-lg-3  col-md-12">
+							<div class="single-footer-widget">
+								<a href="#home" ></a>
+								<h6>Principais Páginas </h6>
+								<ul class="footer-nav">
+									<li><a href="#funcionalidades" id="funcionalidades">Funcionalidades do Projeto</a></li>
+									<li><a href="#desenvolvimento" id="desenvolvimento">Como foi o desenvolvimento</a></li>
+									<li><a href="#Imagens" id="imagens">Imagens </a></li>
+									<li><a href="#preco" id="preco">Consulte nossos preços </a></li>
+								</ul>
+							</div>
+						</div>
+					<!--	<div class="col-lg-6  col-md-12">
+							<div class="single-footer-widget newsletter">
+								<h6>Newsletter</h6>
+								<p>Assine nossa newsletter, que informaremos qualquer novidade em relãção ao projeto.</p>
+								<div id="mc_embed_signup">
+
+									<form method="post" action="painel/newsletter.php" name="form" id="nwslttr" onsubmit="return valida(this);">
+
+										<fieldset>
+
+											<input type="text" id="nl-nome" name="newsletter" value="Assine nossa newsletter" onfocus="if(this.value == 'Assine nossa newsletter'){this.value='';}" onblur="if(this.value == '') {this.value = 'Assine nossa newsletter';}" />
+
+											<input type="submit" id="nl-assinar" name="nl-assinar" value="Assinar" />
+
+										</fieldset>
+
+									</form>
+								
+								</div>		
+							</div>
+						</div> -->
+										
+					</div>
+
+					<div class="row footer-bottom d-flex justify-content-between">
+						<p class="col-lg-8 col-sm-12 footer-text m-0 text-white">
+							<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --> 
+
+							Copyright &copy;<script>document.write(new Date().getFullYear());</script> 
+							All rights reserved | Developer by: SecurityHome Inc.  Etec Irmã Agostina<br>
+												
+						</p>
+						<p>  </p>
+						<div class="col-lg-4 col-sm-12 footer-social">
+							<a href="#"><i class="fa fa-facebook"></i></a>
+							<a href="#"><i class="fa fa-twitter"></i></a>
+							<a href="#"><i class="fa fa-dribbble"></i></a>
+							<a href="#"><i class="fa fa-behance"></i></a>
+						</div>
+					</div>
+				</div>
+
+
+			</footer>
+			<!-- End footer Area -->		
+
+
+			
+			<script src="js/vendor/jquery-2.2.4.min.js"></script>
+			<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+			<script src="js/vendor/bootstrap.min.js"></script>			
+			<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBhOdIF3Y9382fqJYt5I_sswSrEw5eihAA"></script>
+  			<script src="js/easing.min.js"></script>			
+			<script src="js/hoverIntent.js"></script>
+			<script src="js/superfish.min.js"></script>	
+			<script src="js/jquery.ajaxchimp.min.js"></script>
+			<script src="js/jquery.magnific-popup.min.js"></script>	
+			<script src="js/owl.carousel.min.js"></script>			
+			<script src="js/jquery.sticky.js"></script>
+			<script src="js/jquery.nice-select.min.js"></script>			
+			<script src="js/parallax.min.js"></script>		
+			<script src="js/mail-script.js"></script>	
+			<script src="js/main.js"></script>	
+		</body>
+	</html>
+
+
+
